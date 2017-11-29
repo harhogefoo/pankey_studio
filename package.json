@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "gulp",
+    "start": "nf start",
+    "gulp": "gulp",
     "serve": "gulp serve",
     "build": "gulp build",
     "build-css": "gulp sass",
@@ -39,6 +40,8 @@
     "webpack-stream": "^4.0.0"
   },
   "dependencies": {
-    "jquery": "^3.2.1"
+    "foreman": "^2.0.0",
+    "jquery": "^3.2.1",
+    "serve": "^6.4.1"
   }
 }
