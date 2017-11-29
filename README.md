@@ -1,4 +1,4 @@
-ejs-sass-webpack
+pankey_studio
 ====
 
 ## 事前に用意するもの
